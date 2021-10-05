@@ -19,6 +19,16 @@ c108193235 **c108193235** *c108193235*
 ![bbb](https://www.youtube.com/img/desktop/yt_1200.png "youtube")
 
 ***
+Emphasis, aka *italics,* with asterisks or underscores. 
+
+Strong emphasis, aka bold, with **asterisks** or **underscores.** 
+
+Combined emphasis with **asterisks and _underscores_.** 
+
+Strikethrough uses two tildes. <s>Scratch this.</s> 
+***
+
+***
 abcdefg
 
 abcdefg
