@@ -13,3 +13,40 @@
 
 aaa
 **aaa**
+
+
+
+c108193235 **c108193235** *c108193235*
+
+`c108193235`
+
+
+![bbb](https://meet.google.com "meet")
+
+***
+abcdefg
+
+abcdefg
+***
+**list**
+- [X] a1
+- [ ] a2
+- [ ] a3
+***
+**Python**
+```python
+s = "Python code"
+print s
+```
+***
+**javascript**
+```js
+var s = "JavaScript code";
+alert(s);
+```
+***
+| Left Aligned | Center Aligned | Right Aligned |
+| :----------- | :------------: | ------------: |
+| col 3 is     | some wordy text| $1600         |
+| col 2 is     | `centered`     | $12           |
+| zebra stripes| **are neat**   | $1            |
